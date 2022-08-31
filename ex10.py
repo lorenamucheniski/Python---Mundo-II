@@ -15,9 +15,9 @@ elif pagamento == 2:
 elif pagamento == 3:
     totparcelas = int(input('Quantas parcelas?'))
     parcela = preco / totparcelas
-    print('Sua compra sairá pelo valor normal de {:.2f} dividida em {} parcelas de {:.2f}'.format(preco, totparcelas, parcela))
+    print('Sua compra sairá pelo valor normal de {:.2f} dividida em {} parcelas de R${:.2f}'.format(preco, totparcelas, parcela))
 else:
     novo_preco = preco + (preco * 20 / 100)
     totparcelas = int(input('Quantas parcelas?'))
     parcela = novo_preco / totparcelas
-    print('O valor a ser pago será de R${:.2f} dividido em {} parcelas de {}'.format(novo_preco, totparcelas, parcela))
+    print('O valor gasto de R${:.2f} passará a ser de R${:.2f}, dividido em {} parcelas de R${:.2f}'.format(preco, novo_preco, totparcelas, parcela))
