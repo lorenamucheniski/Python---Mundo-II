@@ -2,7 +2,7 @@ from random import randint
 from time import sleep
 itens = ('Pedra','Papel','Tesoura')
 pc = randint(0,2)
-print('\033[32m{:#^40}\033[m'.format('PEDRA PAPEL TESOURA'))
+print('\033[32m{:#^40}\033[m'.format('JOKENPO'))
 print('''Suas opções:
 0 - PEDRA
 1 - PAPEL
