@@ -2,6 +2,10 @@
 Repositório criado para os exercicíos do segundo curso de Python do Curso em Vídeo com o professor Gustavo Guanabara.
 Continuação do Mundo I.
 
-## Descrição
-
-No Mundo II do Python, foi dada a continuação as estruturas de decisão **IF, ELSE e ELIF**. 
+O segundo mundo apresenta as estruturas de repetição, muito importantes para qualquer linguagem, o professor explica sobre os comandos if, else, for e while e suas usabilidades. 
+ 
+ [Curso em vídeo - Python Mundo II](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+ 
+ 1. Condições Aninhadas (IF - ELIF)
+ 
+ ## 1 - Condições Aninhadas (IF - ELIF)
