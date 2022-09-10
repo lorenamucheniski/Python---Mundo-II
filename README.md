@@ -9,3 +9,5 @@ O segundo mundo apresenta as estruturas de repetição, muito importantes para q
  1. Condições Aninhadas (IF - ELIF)
  
  ## 1 - Condições Aninhadas (IF - ELIF)
+
+Estruturas Codicionais Aninhadas são várias condições em cascatas, ou seja, um IF dentro de outro IF. Essa estrutura nos permite tem maais de duas opções de escolha dentro do nosso programa. No exemplo a seguir teremos três escolha, caso a soma seja maior que zero, caso seja igual a zero ou menor que zero:
