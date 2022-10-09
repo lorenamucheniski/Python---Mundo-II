@@ -32,4 +32,14 @@ início: é um valor opcional e corresponde a partir de qual número o range ser
 parada: é um valor obrigatório e indica o número de parada do range;
 
 incremento: é opcional e indica o valor que queremos adicionar entre um item e outro.   
+
+A função range() é utilizada na estrutura de repetição for para executarmos um determinado conjunto de instruções pela quantidade de vezes indicadas na função. Veja um exemplo:
+
+![](imagens/range.png)
+
+Resultado:
+
+![](imagens/result_range.png)
+
+No código acima, utilizamos a função range() para descobrir os números pares em um determinado intervalo numérico. Perceba que no resultado do processamento o número 10 não foi listado. Como mencionamos, na função range() o valor 10 corresponde ao ponto de parada do loop, então, ele só irá considerar até o número 9.
    
