@@ -8,6 +8,7 @@ O segundo mundo apresenta as estruturas de repetição, muito importantes para q
  
  1. Condições Aninhadas (IF - ELIF)
  2. FOR 
+ 3. WHILE 
  
  ## 1 - Condições Aninhadas (IF - ELIF)
 
@@ -43,3 +44,9 @@ Resultado:
 
 No código acima, utilizamos a função range() para descobrir os números pares em um determinado intervalo numérico. Perceba que no resultado do processamento o número 10 não foi listado. Como mencionamos, na função range() o valor 10 corresponde ao ponto de parada do loop, então, ele só irá considerar até o número 9.
    
+## 3 - WHILE
+
+A condição while(enquanto) em Python é usado para repetir um bloco de código, desde que a expressão de teste (condição) seja verdadeira. Geralmente usamos o while quando não sabemos o número de vezes que precisaremos repetir esse bloco.
+
+No while, a expressão de teste é verificada primeiro. Se a expressão inserida for TRUE(verdadeira) então o bloco de comando do while será executado. Após uma repetição, a expressão de teste é verificada novamente. Esse processo continua até que a expressão inserida seja False(falsa).
+
