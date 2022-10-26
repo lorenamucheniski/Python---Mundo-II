@@ -50,3 +50,16 @@ A condição while(enquanto) em Python é usado para repetir um bloco de código
 
 No while, a expressão de teste é verificada primeiro. Se a expressão inserida for TRUE(verdadeira) então o bloco de comando do while será executado. Após uma repetição, a expressão de teste é verificada novamente. Esse processo continua até que a expressão inserida seja False(falsa).
 
+Vamos entender melhor com um exemplo:
+
+![](imagens/while.png)
+
+O código resultará em:
+       
+        Valor do contador é 1
+        Valor do contador é 2
+        Valor do contador é 3
+        Valor do contador é 4
+        
+Ou seja, a variável contador está sendo incrementada enquanto (while) o contador for menor do que 5. Quando ele alcançar o valor 5, a condição contador < 5 não será mais satisfeita, finalizando o loop while!      
+        
