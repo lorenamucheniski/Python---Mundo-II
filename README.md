@@ -68,3 +68,7 @@ Ou seja, a variável contador está sendo incrementada enquanto (while) o contad
 'Break' em Python é uma instrução de controle de loop . Ele é usado para controlar a sequência do loop. Suponha que você queira encerrar um loop e pular para o próximo código após o loop; break irá ajudá-lo a fazer isso. Um cenário típico de uso do Break in Python é quando uma condição externa aciona o término do loop. Outro caso de uso para usar 'Break' em Python é quando você pega uma entrada para algo, imprime usando um loop e deseja dar ao usuário a opção de imprimi-lo novamente. Se o usuário digitar “Não”, você pode encerrar o loop.
 
 Você pode usar break em Python em todos os loops: while e for. Se você o estiver usando em loops aninhados, ele encerrará o loop mais interno onde você o usou e o controle do programa fluirá para o loop externo. Em outras palavras, ele quebra a sequência do loop e o controle vai para a primeira instrução fora do loop.
+
+Vamos ver um exemplo que usa a instrução break em um loop do tipo "for":
+
+
