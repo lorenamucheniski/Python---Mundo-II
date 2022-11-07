@@ -71,4 +71,4 @@ Você pode usar break em Python em todos os loops: while e for. Se você o estiv
 
 Vamos ver um exemplo que usa a instrução break em um loop do tipo "for":
 
-
+![](imagens/break.png)
